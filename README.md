@@ -7,11 +7,6 @@ Welcome to my AI Learning repository! This is where I document my journey of lea
 - **Interests**: AI, Machine Learning, Deep Learning, Python Programming  
 - **Goal**: To build a strong foundation in AI and develop practical projects.
 
-## Repository Structure
-- **/notes**: Contains my learning notes and summaries.  
-- **/projects**: Contains AI-related projects I am working on.  
-- **/resources**: Stores useful resources like tutorials, papers, and datasets.  
-
 ## Current Projects
 1. **Linear Algebra Basics**: Learning linear algebra concepts and implementing them in Python.  
 2. **Python for AI**: Practicing Python programming for AI applications.  
